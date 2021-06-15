@@ -1,6 +1,8 @@
 # PSO_FilterWheel_MCF
-PSO program to optimize the magnetic field of a filter wheel to find values of position and magnetic moment
+PSO program to optimize the magnetic field of a filter wheel to find values of position and magnetic moment.
+
 Author: Yako Irusta Salles
+
 Email: yakoirusta@correo.ugr.es
 
 
