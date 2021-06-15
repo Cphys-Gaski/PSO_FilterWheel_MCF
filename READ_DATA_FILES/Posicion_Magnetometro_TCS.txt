@@ -1,0 +1,12 @@
+#Posicion magnetometro 2[x,y,z] [cm]
+    26.7   -5.4   13.5
+#Posicion magnetometro 3[x,y,z] [cm]
+    26.7    0.0   3.5
+#Posicion magnetometro 4[x,y,z] [cm]
+    22.4   -5.4   -9.7
+
+
+
+
+
+
